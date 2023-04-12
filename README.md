@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Deploy to Azure
+# Deploy to Azurea
 
 _Create two deployment workflows using GitHub Actions and Microsoft Azure._
 
